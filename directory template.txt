@@ -1,0 +1,4 @@
+project_directory/
+├── main.py
+└── templates/
+    └── login_signup.html
